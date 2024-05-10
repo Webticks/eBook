@@ -1,0 +1,40 @@
+{
+  "achievements": {
+    "title": "Services",
+    "subtitle": "Our Services",
+    "icon": "/assets/icons/award.svg",
+    "awards": [
+      {
+        "id": 1,
+        "title": "Nominated",
+        "image": "/assets/images/awards/2.jpg",
+        "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+      },
+      {
+        "id": 2,
+        "title": "Winner",
+        "image": "/assets/images/awards/2.jpg",
+        "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+      },
+
+      {
+        "id": 3,
+        "title": "Guest of Honor",
+        "image": "/assets/images/awards/2.jpg",
+        "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+      },
+      {
+        "id": 4,
+        "title": "Finalist",
+        "image": "/assets/images/awards/2.jpg",
+        "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+      },
+      {
+        "id": 5,
+        "title": "Winner",
+        "image": "/assets/images/awards/2.jpg",
+        "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+      }
+    ]
+  }
+}
