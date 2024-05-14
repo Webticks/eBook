@@ -1,0 +1,32 @@
+{
+    "aboutContent": {
+        "title": "What you'll achieve by this book",
+        "description": "Lorem ipsum dolor sit amet, consectetuer laoreet dolore magna.",
+        "achieveItem": [
+            {
+                "id": 1,
+                "icon": "assets/icons/ebook.svg",
+                "title": "Experience",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, ex? Voluptas minus quis aspernatur corporis.",
+                "linkBtn": "Read more",
+                "btnIcon": "assets/icons/right-arrow.svg"
+            },
+            {
+                "id": 1,
+                "icon": "assets/icons/dice-multiple.svg",
+                "title": "Motivation",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, ex? Voluptas minus quis aspernatur corporis.",
+                "linkBtn": "Read more",
+                "btnIcon": "assets/icons/right-arrow.svg"
+            },
+            {
+                "id": 1,
+                "icon": "assets/icons/goal.svg",
+                "title": "Goals",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, ex? Voluptas minus quis aspernatur corporis.",
+                "linkBtn": "Read more",
+                "btnIcon": "assets/icons/right-arrow.svg"
+            }
+        ]
+    }
+}

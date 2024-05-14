@@ -21,6 +21,7 @@ import headerData from "./data/header.json";
 
 import ContactPage from "./components/contactPage";
 import AboutPage from "./components/aboutPage";
+import ServicePage from "./components/servicePage";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -71,6 +72,7 @@ function App() {
 
           <Route path="contact" element={<ContactPage header={header} footer={footer} />} />
           <Route path="about" element={<AboutPage header={header} footer={footer} />} />
+          <Route path="services" element={<ServicePage header={header} footer={footer} />} />
 
         </Routes>
       </BrowserRouter>

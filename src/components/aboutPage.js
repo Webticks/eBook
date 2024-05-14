@@ -2,7 +2,9 @@
 import React from "react";
 import Header from "./global/header";
 import Footer from "./global/footer";
-import AboutContent from "./aboutContent";
+import AboutUs from "./pages/aboutUs/aboutus";
+import AboutContent from "./pages/aboutUs/aboutContent";
+import MeetTheTeam from "./pages/aboutUs/meetTheTeam";
 
 const AboutPage = ({ header, footer }) => {
     const { menu } = footer;
@@ -10,7 +12,9 @@ const AboutPage = ({ header, footer }) => {
     return (
         <>
             <Header header={header} />
+            <AboutUs isBg="Yes" />
             <AboutContent isBg="" />
+            <MeetTheTeam isBg="yes" />
             <Footer isBg="yes" menu={menu} />
         </>
     );

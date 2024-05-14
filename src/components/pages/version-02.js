@@ -18,6 +18,8 @@ import ChapterPreview from "../chapter-preview";
 import Booksv2 from "../booksv2";
 import Portfolio from "../portfolio";
 import Booksv1 from "../booksv1";
+import MeetTheTeam from "./aboutUs/meetTheTeam";
+import Team from "../team";
 
 const Version02 = ({ header, footer }) => {
   const { menu } = footer;
@@ -28,9 +30,11 @@ const Version02 = ({ header, footer }) => {
       <Brands isBg="" />
       <Chapter isBg="yes" />
       <ChapterPreview isBg="" />
+      <MeetTheTeam isBg="" />
       <AchievementV2 isBg="yes" />
       <Author isBg="" />
       <Booksv1 isBg="yes"/>
+      <Team isBg="yes"/>
       <ChapterPreviewV2 isBg="yes" />
       <Achievev2 isBg="" />
       <FunFacts isBg="" />

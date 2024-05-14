@@ -58,13 +58,18 @@
         "isDropdown": false
       },
       {
+        "link": "/services",
+        "title": "Services",
+        "isDropdown": false
+      },
+      {
         "link": "/about",
         "title": "About Us",
         "isDropdown": false
       },
       {
         "link": "/contact",
-        "title": "Contact",
+        "title": "Contact Us",
         "isDropdown": false
       }
     ]

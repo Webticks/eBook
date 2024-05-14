@@ -1,0 +1,47 @@
+{
+    "meetTheTeam": {
+      "title": "Our Experienced & Professional Team",
+      "subtitle": "Meet The Team",
+      "icon": "/assets/icons/award.svg",
+      "awards": [
+        {
+          "id": 1,
+          "title": "Hashu Kala",
+          "image": "https://via.placeholder.com/150",
+          "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+        },
+        {
+          "id": 2,
+          "title": "Osama Murghi",
+          "image": "https://via.placeholder.com/150",
+          "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+        },
+  
+        {
+          "id": 3,
+          "title": "Billu Gay",
+          "image": "https://via.placeholder.com/150",
+          "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+        },
+        {
+          "id": 4,
+          "title": "Asad Chimpanzee",
+          "image": "https://via.placeholder.com/150",
+          "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+        },
+        {
+          "id": 5,
+          "title": "KB - Berry",
+          "image": "https://via.placeholder.com/150",
+          "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+        },
+        {
+          "id": 5,
+          "title": "Sheeraz Daaru",
+          "image": "https://via.placeholder.com/150",
+          "description": "International Thriller Writers Award for Best Novel (These Toxic Things)"
+        }
+      ]
+    }
+  }
+  
